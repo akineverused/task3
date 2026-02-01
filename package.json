@@ -1,0 +1,8 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "main": "task3.js",
+  "scripts": {
+    "start": "node task3.js"
+  }
+}
